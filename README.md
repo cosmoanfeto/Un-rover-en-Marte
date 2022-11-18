@@ -7,7 +7,8 @@ Pasa un rato explorando el crater Jezero en el planeta Marte. Se estan realizand
 
 ********Próximas versiones incluirá*********
 1. Explorar otros cráter explorados por Sojourner, Spirit, Opportunity y Curiosity.
-2. Realizar el recorrido con los 5 diferentes Rover que la NASA ha explorado en marte. 
-3. Texturas para el Rover. 
-4. Opciones para medir y realizar las diferentes tomas de muestras que se desarrollan por parte de los Rover en Marte. 
-5. Mensaje con los controles de movimiento A S D W del Rover -.-
+2. Mejora visual de las articulaciones del Rover.
+3. Realizar el recorrido con los 5 diferentes Rover que la NASA ha explorado en marte. 
+4. Texturas para el Rover. 
+5. Opciones para medir y realizar las diferentes tomas de muestras que se desarrollan por parte de los Rover en Marte. 
+6. Mensaje con los controles de movimiento A S D W del Rover -.-
