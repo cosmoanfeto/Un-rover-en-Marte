@@ -1,0 +1,16 @@
+{
+"companyName": "GrupoSimulacionUmng",
+"productName": "Rover",
+"productVersion": "5.0",
+"dataUrl": "marteColisionRocas.data.unityweb",
+"wasmCodeUrl": "marteColisionRocas.wasm.code.unityweb",
+"wasmFrameworkUrl": "marteColisionRocas.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Light",
+"backgroundColor": "#DC8097",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.4.40f1"
+}
